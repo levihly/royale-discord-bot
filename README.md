@@ -2,8 +2,7 @@
 	<br />
 		<a href="https://discord.com/api/oauth2/authorize?client_id=1165129273405886474&permissions=519232&scope=bot"><img src="https://i.imgur.com/5iUBpGR.png" width="546" alt="discord.js" /></a>
 	<br />
-
-	[Invite Royale to your server!](https://discord.com/api/oauth2/authorize?client_id=1165129273405886474&permissions=519232&scope=bot)
+	<a href="https://discord.com/api/oauth2/authorize?client_id=1165129273405886474&permissions=519232&scope=bot">Invite Royale to your server!</a>
 </div>
 
 ## Introduction
